@@ -2,7 +2,7 @@
 #define __dbg_h__
 
 #include <stdio.h>
-#include <errono.h>
+#include <errno.h>
 #include <string.h>
 
 #ifdef NDEBUG
